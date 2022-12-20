@@ -1,2 +1,2 @@
-# VT3.1
+# VT3
 https://tetovv.github.io/VT3.1/
